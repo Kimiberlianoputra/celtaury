@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="images/celtaury_logo.png" alt="Celtaury Logo" width="120" />
+  <img src="images/New Logo Official.png" alt="Celtaury Logo" width="120" />
 </p>
 
 <h1 align="center">Celtaury</h1>
 
 <p align="center">
-  <i>Intentional software for a distracted world.</i>
+  <i>Software that work like it supposed to.</i>
 </p>
 
 <p align="center">
@@ -19,17 +19,17 @@
 
 ## 🧭 Our Philosophy
 
-Celtaury is an independent software studio founded by a 16-year-old developer. We were born out of frustration with the modern mobile ecosystem: apps bloated with ads, predatory subscription models, and invasive data tracking. 
+Celtaury is an independent software studio founded by a 16-year-old developer. We were born out of boredom with the modern mobile ecosystem full of apps bloated with ads, unnecessary subscription models, and invasive data tracking. 
 
-We believe software should be a tool, not a trap. 
+We believe software should work for you without drama.
 
-Our mission is to build **premium, minimalist, and privacy-respecting utilities** that respect the user's time, data, and intelligence. We design for focus, not engagement metrics.
+Our mission is to build **premium, minimalist, and privacy-respecting utilities** that respect the user's time, data, and intelligence. We design for focus, not money.
 
 ### The Celtaury Standard
 Every app we release adheres to three strict rules:
 1. 🚫 **Zero Ads & Zero Trackers:** We do not sell your data. We do not show you ads. Ever.
 2. 🪶 **Intentional Design:** Minimalist UI/UX built with Jetpack Compose. No gimmicks, no fake animations, no bloat.
-3. 🔒 **Privacy by Default:** We utilize modern Android frameworks (like SAF) to ensure we only touch the files you explicitly tell us to.
+3. 🔒 **Privacy by Default:** We utilize modern Android frameworks (like SAF) to ensure we only touch the files you tell us to.
 
 ---
 
@@ -51,25 +51,25 @@ While each product has its own specific stack, Celtaury projects generally share
 *   **Language:** Kotlin
 *   **UI:** Jetpack Compose & Material 3
 *   **Architecture:** Clean Architecture / MVI
-*   **Performance:** Heavy focus on 120Hz smoothness and low memory footprint (tested rigorously on both flagship and mid-tier devices).
+*   **Performance:** Heavy focus on 120Hz smoothness and low memory footprint (tested on both flagship (S24 Ultra) and budget devices (A15).
 
 ---
 
 ## ☕ Support the Studio
 
-Celtaury is entirely self-funded and developed in my free time alongside my studies. If you believe in the mission of building ad-free, ethical software, you can support the studio's infrastructure and development costs.
+Celtaury is entirely self-funded and developed in my free time alongside my studies. If you want, you can support my journey in developing alternative to current technology ecosystem:
 
-🇮🇩 **Indonesian Supporters:** [Buy the developer a coffee on Saweria](https://saweria.co/YOUR_SAWERIA_USERNAME)
+🇮🇩 **Indonesian Supporters:** [Buy the developer a coffee on Saweria](https://saweria.co/Kymigaming)
 🌍 **Global Supporters:** We currently accept support via GitHub Stars and community contributions. Starring our repositories helps us grow!
 
 ---
 
 ## 📬 Contact & Transparency
 
-*   **Privacy Policy:** [Link to Celtaury Privacy Policy](link-to-privacy-policy)
-*   **Developer:** [Your Name/Handle] (Founder & Lead Developer)
-*   **Location:** Indonesia 🇮🇩
+*   **Privacy Policy:** [Very short cool text](link-to-privacy-policy)
+*   **Developer:** [Kimi](https://github.com/Kimiberlianoputra) (Founder & Lead Developer)
+*   **Location:** Indonesia 🇮🇩🔥
 
 <p align="center">
-  <sub>Built with care, code, and a lot of coffee. © 2026 Celtaury.</sub>
+  <sub>Built with care, code, and a lot of sleep debt. © 2026 Celtaury.</sub>
 </p>
