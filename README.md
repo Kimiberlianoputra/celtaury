@@ -66,7 +66,7 @@ Celtaury is entirely self-funded and developed in my free time alongside my stud
 
 ## 📬 Contact & Transparency
 
-*   **Privacy Policy:** [Very short cool text](link-to-privacy-policy)
+*   **Privacy Policy:** [Very short cool text](PRIVACY.md)
 *   **Developer:** [Kimi](https://github.com/Kimiberlianoputra) (Founder & Lead Developer)
 *   **Location:** Indonesia 🇮🇩🔥
 
