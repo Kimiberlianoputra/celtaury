@@ -59,7 +59,7 @@ While each product has its own specific stack, Celtaury projects generally share
 
 Celtaury is entirely self-funded and developed in my free time alongside my studies. If you want, you can support my journey in developing alternative to current technology ecosystem:
 
-🇮🇩 **Indonesian Supporters:** [Buy the developer a coffee on Saweria](https://saweria.co/Kymigaming)
+🇮🇩 **Indonesian Supporters:** [Buy the developer a coffee on Saweria](https://saweria.co/Kymigaming) </br>
 🌍 **Global Supporters:** We currently accept support via GitHub Stars and community contributions. Starring our repositories helps us grow!
 
 ---
