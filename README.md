@@ -27,7 +27,7 @@ Our mission is to build **premium, minimalist, and privacy-respecting utilities*
 
 ### The Celtaury Standard
 Every app we release adheres to three strict rules:
-1. 🚫 **Zero Ads & Zero Trackers:** We do not sell your data. We do not show you ads. Ever.
+1. 🚫 **No annoying ads & invasive data collection:** We do not sell your data. We do not show you spammy ads.
 2. 🪶 **Intentional Design:** Minimalist UI/UX built with Jetpack Compose. No gimmicks, no fake animations, no bloat.
 3. 🔒 **Privacy by Default:** We utilize modern Android frameworks (like SAF) to ensure we only touch the files you tell us to.
 
